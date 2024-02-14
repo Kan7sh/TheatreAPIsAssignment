@@ -1,0 +1,17 @@
+C:\Users\kchha\source\repos\TheatreAPIsAssignment\TheatreAPIsAssignment.Services\bin\Debug\net8.0\TheatreAPIsAssignment.Services.deps.json
+C:\Users\kchha\source\repos\TheatreAPIsAssignment\TheatreAPIsAssignment.Services\bin\Debug\net8.0\TheatreAPIsAssignment.Services.runtimeconfig.json
+C:\Users\kchha\source\repos\TheatreAPIsAssignment\TheatreAPIsAssignment.Services\bin\Debug\net8.0\TheatreAPIsAssignment.Services.dll
+C:\Users\kchha\source\repos\TheatreAPIsAssignment\TheatreAPIsAssignment.Services\bin\Debug\net8.0\TheatreAPIsAssignment.Services.pdb
+C:\Users\kchha\source\repos\TheatreAPIsAssignment\TheatreAPIsAssignment.Services\bin\Debug\net8.0\TheatreAPIsAssignment.Contracts.dll
+C:\Users\kchha\source\repos\TheatreAPIsAssignment\TheatreAPIsAssignment.Services\bin\Debug\net8.0\TheatreAPIsAssignment.Contracts.pdb
+C:\Users\kchha\source\repos\TheatreAPIsAssignment\TheatreAPIsAssignment.Services\obj\Debug\net8.0\TheatreAPIsAssignment.Services.csproj.AssemblyReference.cache
+C:\Users\kchha\source\repos\TheatreAPIsAssignment\TheatreAPIsAssignment.Services\obj\Debug\net8.0\TheatreAPIsAssignment.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kchha\source\repos\TheatreAPIsAssignment\TheatreAPIsAssignment.Services\obj\Debug\net8.0\TheatreAPIsAssignment.Services.AssemblyInfoInputs.cache
+C:\Users\kchha\source\repos\TheatreAPIsAssignment\TheatreAPIsAssignment.Services\obj\Debug\net8.0\TheatreAPIsAssignment.Services.AssemblyInfo.cs
+C:\Users\kchha\source\repos\TheatreAPIsAssignment\TheatreAPIsAssignment.Services\obj\Debug\net8.0\TheatreAPIsAssignment.Services.csproj.CoreCompileInputs.cache
+C:\Users\kchha\source\repos\TheatreAPIsAssignment\TheatreAPIsAssignment.Services\obj\Debug\net8.0\TheatreAPIsAssignment.Services.csproj.CopyComplete
+C:\Users\kchha\source\repos\TheatreAPIsAssignment\TheatreAPIsAssignment.Services\obj\Debug\net8.0\TheatreAPIsAssignment.Services.dll
+C:\Users\kchha\source\repos\TheatreAPIsAssignment\TheatreAPIsAssignment.Services\obj\Debug\net8.0\refint\TheatreAPIsAssignment.Services.dll
+C:\Users\kchha\source\repos\TheatreAPIsAssignment\TheatreAPIsAssignment.Services\obj\Debug\net8.0\TheatreAPIsAssignment.Services.pdb
+C:\Users\kchha\source\repos\TheatreAPIsAssignment\TheatreAPIsAssignment.Services\obj\Debug\net8.0\TheatreAPIsAssignment.Services.genruntimeconfig.cache
+C:\Users\kchha\source\repos\TheatreAPIsAssignment\TheatreAPIsAssignment.Services\obj\Debug\net8.0\ref\TheatreAPIsAssignment.Services.dll
